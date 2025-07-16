@@ -1,3 +1,6 @@
+class AlexNet:
+	pass
+
 def main():
 	print("Hello AlexNet")
 
