@@ -1,0 +1,9 @@
+# Project wide ignores
+.vscode/
+*.code-workspace
+
+# C++ specific ignores
+**/*.exe
+
+# Output related
+Result/
